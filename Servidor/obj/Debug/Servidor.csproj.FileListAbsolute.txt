@@ -1,0 +1,9 @@
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\bin\Debug\Servidor.exe
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.ServidorForm.resources
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.csproj.GenerateResource.Cache
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.exe
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache

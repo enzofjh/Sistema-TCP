@@ -1,0 +1,8 @@
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Cliente\obj\Debug\Cliente.ClienteForm.resources
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Cliente\bin\Debug\Cliente.exe
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Cliente\obj\Debug\Cliente.exe
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Cliente\obj\Debug\Cliente.pdb
